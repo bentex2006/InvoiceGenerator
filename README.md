@@ -33,5 +33,5 @@ This tool is ideal for:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/invoice-generator.git
+git clone https://github.com/bentex2006/invoice-generator.git
 cd invoice-generator
